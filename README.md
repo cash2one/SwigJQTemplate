@@ -1,0 +1,1 @@
+Used to take practice of building environment for Swig and jQuery.
